@@ -4,7 +4,13 @@ This project will include complete guide to install MacOS Catalina on Dell Inspi
 
 Any internal hardware is not modified at all. All are preinstalled by DELL at the time of purchase.
 
-System Configuration: 
+You can find your system configuration from 2 different source.
+
+For windows users: Install HWINFO
+
+For Linux users: Go to terminal and type "lspci"
+
+My system configuration: 
 
                       Intel Core i3-6100U
 
