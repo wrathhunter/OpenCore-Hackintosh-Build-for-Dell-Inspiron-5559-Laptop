@@ -15,3 +15,5 @@ a) if you plug wired headset with headphone jack then you will face distorted so
 b) if you try to plug external monitor with HDMI then there will be no output. You will face no connection issue.
                                                           
 4.To solve these 2 issues you just need to sleep and wake once after a fresh start each time.
+
+5.If you want to record your screen with internal audio then you need a bridge to do virtual routing. You will need a software called blackhole. Plenty of online guides are available for this, you can refer right away.
