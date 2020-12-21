@@ -4,7 +4,9 @@ This project will include complete guide to install MacOS Catalina on Dell Inspi
 
 Any internal hardware is not modified at all. All are preinstalled by DELL at the time of purchase.
 
-System Configuration: Intel Core i3-6100U
+System Configuration: 
+
+                      Intel Core i3-6100U
 
                       Graphics intel HD 520
                       
