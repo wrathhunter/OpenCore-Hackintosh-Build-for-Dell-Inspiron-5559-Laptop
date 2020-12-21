@@ -42,3 +42,5 @@ b) if you try to plug external monitor with HDMI then there will be no output. Y
 4.To solve these 2 issues you just need to sleep and wake once after a fresh start each time.
 
 5.If you want to record your screen with internal audio then you need a bridge to do virtual routing. You will need a software called blackhole. Plenty of online guides are available for this, you can refer right away.
+
+5.Finally after completion you will face 1 last issue: You can not copy or delete or modify any files in your external hard drives or internal non bootable hard drives. Because they might be in NTFS file format which is not supported by Mac OS. You need to format them to ExFat file format or you can use "NTFS for mac" a software by Microsoft. After installing this you can use your computer normally. 
