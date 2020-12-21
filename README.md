@@ -25,6 +25,14 @@ My system configuration:
 
 2.Try to read it carefully. If you have exact same laptop like me no need to read. You can paste my EFI folder and skip the EFI creation part of the guide.
 
+3.Before installing Mac OS make these changes to your existing Bios: 
+
+                                                                    Disk in AHCI mode
+
+                                                                    Fastboot: Thorough
+
+                                                                    Power on lid: Disabled - Fix black screen after wake
+
 3.After complete installation you can face this 2 issues: 
 
 a) if you plug wired headset with headphone jack then you will face distorted sound
