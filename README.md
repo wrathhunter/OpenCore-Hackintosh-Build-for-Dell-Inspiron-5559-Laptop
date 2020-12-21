@@ -4,6 +4,11 @@ This project will include complete guide to install MacOS Catalina on Dell Inspi
 
 Any internal hardware is not modified at all. All are preinstalled by DELL at the time of purchase.
 
+System Configuration: Intel Core i3-6100U
+                      Graphics intel HD 520
+                      Audio Codec Realtek ALC255
+                      Ethernet Realtek 8100
+
 1.Go to the link: https://dortania.github.io/OpenCore-Install-Guide/
 
 2.Try to read it carefully. If you have exact same laptop like me no need to read. You can paste my EFI folder and skip the EFI creation part of the guide.
