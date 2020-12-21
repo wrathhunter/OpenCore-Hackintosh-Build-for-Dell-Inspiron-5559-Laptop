@@ -1,3 +1,3 @@
-# BLACK-DESERT-MOBILE-AUTOMATION-SCRIPT
+# OpenCore Hackintosh Build for Dell Inspiron 5559 Laptop Private
 
-This method uses WinAutomation tool to automate the Black Desert Mobile game mainly for farming and boss rushes..
+This project will include complete guide to install MacOS Catalina on Dell Inspiron 5559 with i3 6th gen. It will also include a general guide to create own hackintosh build from scratch. Later i will include a complete youtube visual guide for the same.
